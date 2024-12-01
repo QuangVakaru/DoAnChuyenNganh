@@ -1,6 +1,6 @@
 # Tên đề tài: Website bán hàng trực tuyến
 
-Phiên bản Node.js sử dụng là Node.js: [v16.13.1](https://nodejs.org/dist/v16.13.1/node-v16.13.1-x86.msi) (hoặc phiên bản v16 cùng cấp)
+Phiên bản Node.js sử dụng là Node.js: [v16.13.1]
 
 ![screenshot](https://github.com/QuangVakaru/DoAnChuyenNganh/blob/main/DoAnChuyenNganh/frontend/public/images/home.PNG)
 
